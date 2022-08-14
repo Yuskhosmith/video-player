@@ -7,7 +7,7 @@ This is a video player, I mean, you can
 - [x] Seek through the video
 - [x] Change playback speed
 - [x] Play in Fullscreen
-[x] test.md📺
+
 Just metion it 😁, If you can't find the feature maybe I'll implement it someday 😂🤲🏾
 
 [Live Site](https://yuskhosmith.github.io/video-player/)
